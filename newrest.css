@@ -1,0 +1,25 @@
+.sushi {
+	padding: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.jumbotron {
+	text-align: center;
+	text-decoration: underline;
+
+}
+
+.btn btn-success{
+	text-align: center;
+}
+
+p {
+	font: ;
+	font-size: 25px;
+	font-style: oblique;
+	text-align: center;
+	color: blue;
+}
